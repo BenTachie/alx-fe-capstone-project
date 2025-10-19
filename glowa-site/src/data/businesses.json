@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Monet Nail Bar",
+    "city": "Sandton",
+    "category": "Nails",
+    "image": "https://source.unsplash.com/400x300/?nail-salon"
+  },
+  {
+    "id": 2,
+    "name": "Modern Eleganz",
+    "city": "Bryanston",
+    "category": "Hair Salon",
+    "image": "https://source.unsplash.com/400x300/?hair-salon"
+  },
+  {
+    "id": 3,
+    "name": "Glow Up Spa",
+    "city": "Rosebank",
+    "category": "Spa",
+    "image": "https://source.unsplash.com/400x300/?spa"
+  },
+  {
+    "id": 4,
+    "name": "Urban Cuts",
+    "city": "Johannesburg",
+    "category": "Barber Shop",
+    "image": "https://source.unsplash.com/400x300/?barber-shop"
+  },
+  {
+    "id": 5,
+    "name": "Luxe Beauty Lounge",
+    "city": "Pretoria",
+    "category": "Beauty Salon",
+    "image": "https://source.unsplash.com/400x300/?beauty-salon"
+  }
+]
